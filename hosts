@@ -2,3 +2,4 @@
 localhost ansible_connection=local ansible_python_interpreter=python
 
 [webserver]
+52.15.106.26
